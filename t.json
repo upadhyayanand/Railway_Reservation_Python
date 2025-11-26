@@ -1,0 +1,40 @@
+[
+  {
+    "tno": 1346,
+    "tname": "Anand Vihar Express",
+    "bp": "Pt. DDU",
+    "dest": "NDLS",
+    "c1": 30,
+    "c1fare": 1200,
+    "c2": 60,
+    "c2fare": 600,
+    "dep_time": "12:30",
+    "arr_time": "02:10",
+    "running_days": [
+      "M",
+      "W",
+      "F",
+      "S"
+    ]
+  },
+  {
+    "tno": 13009,
+    "tname": "Netaji Express",
+    "bp": "Howrah",
+    "dest": "Chandigarh",
+    "c1": 40,
+    "c1fare": 1300,
+    "c2": 90,
+    "c2fare": 650,
+    "dep_time": "23:40",
+    "arr_time": "22:00",
+    "running_days": [
+      "M",
+      "T",
+      "W",
+      "F",
+      "S",
+      "S"
+    ]
+  }
+]

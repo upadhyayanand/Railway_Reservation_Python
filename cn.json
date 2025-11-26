@@ -1,0 +1,23 @@
+[
+  {
+    "pnr": 289278,
+    "tno": 13009,
+    "tname": "Netaji Express",
+    "bp": "Howrah",
+    "dest": "Chandigarh",
+    "passengers": [
+      {
+        "name": "Ashu",
+        "age": 28
+      },
+      {
+        "name": "Anand",
+        "age": 23
+      }
+    ],
+    "clas": "f",
+    "nosc": 2,
+    "cancel_date": "2025-11-26",
+    "amr": 1300.0
+  }
+]
